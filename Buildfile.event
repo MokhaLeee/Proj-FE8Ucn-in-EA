@@ -1,0 +1,12 @@
+#include "_FE8EssentialFixes.event"
+#define FreeSpace $B978D0
+
+ORG FreeSpace
+#include "DrawUTF8/Installer.event"
+WORD 0
+
+#include "fonts/FontTableDef.event"
+#include "fonts/FontInstaller.event"
+#include "Strings/_string.event"
+
+MESSAGE END_AT CURRENTOFFSET
