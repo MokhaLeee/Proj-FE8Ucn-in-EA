@@ -24,7 +24,7 @@ Fonts(0x005D,0x0009)
 #incbin "FontItem崖.font.gba"
 
 ALIGN 4
-Fonts(0x0060,0x000B)
+Fonts(0x0060,0x0009)
 #incbin "FontItem怖.font.gba"
 
 ALIGN 4
@@ -40,7 +40,7 @@ Fonts(0x0068,0x000B)
 #incbin "FontItem栖.font.gba"
 
 ALIGN 4
-Fonts(0x0073,0x000B)
+Fonts(0x0073,0x0009)
 #incbin "FontItem猖.font.gba"
 
 ALIGN 4

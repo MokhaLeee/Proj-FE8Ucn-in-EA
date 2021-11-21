@@ -8,7 +8,7 @@ Fonts(0x004F,0x000B)
 #incbin "FontItem企.font.gba"
 
 ALIGN 4
-Fonts(0x0052,0x000B)
+Fonts(0x0052,0x0009)
 #incbin "FontItem刁.font.gba"
 
 ALIGN 4
@@ -48,7 +48,7 @@ Fonts(0x006D,0x0009)
 #incbin "FontItem洁.font.gba"
 
 ALIGN 4
-Fonts(0x0076,0x000B)
+Fonts(0x0076,0x000A)
 #incbin "FontItem瘁.font.gba"
 
 ALIGN 4

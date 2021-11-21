@@ -16,7 +16,7 @@ Fonts(0x007B,0x0009)
 #incbin "FontItem简.font.gba"
 
 ALIGN 4
-Fonts(0x0081,0x000B)
+Fonts(0x0081,0x0009)
 #incbin "FontItem膀.font.gba"
 
 ALIGN 4

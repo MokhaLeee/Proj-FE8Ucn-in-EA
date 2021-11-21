@@ -1,6 +1,6 @@
 
 ALIGN 4
-Fonts(0x0053,0x000B)
+Fonts(0x0053,0x000A)
 #incbin "FontItem叱.font.gba"
 
 ALIGN 4

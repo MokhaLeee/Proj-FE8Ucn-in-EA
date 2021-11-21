@@ -52,7 +52,7 @@ Fonts(0x0082,0x0009)
 #incbin "FontItem苍.font.gba"
 
 ALIGN 4
-Fonts(0x008B,0x000B)
+Fonts(0x008B,0x000A)
 #incbin "FontItem词.font.gba"
 
 ALIGN 4

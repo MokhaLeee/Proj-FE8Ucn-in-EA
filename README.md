@@ -13,7 +13,8 @@
 在`Buildfile`中将`FontInstaller.event`包含其中，此时烧录则已经实现字库烧录；
 
 ### 4. 烧录字串:
-另行将`Strings/_string.event`导入则可实现一些基本汉化文本的导入；
+``` texts\TextBuildfile.txt```保存有所有待烧录字串，语法同textprocess。但目前只支持```[N] [X]```两种标记。
+系统安装python3后，在```\texts```文件夹内打开cmd并执行指令```python3 text-process-cn.py TextBuildfile.txt InstallTextData.event TextDefinition.txt```，即可生成字串烧录文件
 
 ### 5. 烧录:
 FE8U clean rom命名为`FE8U.gba`,将`Evenet Assembler`放置在根目录下点击`MAKE HACK.cmd`即可完成汉化。

@@ -8,7 +8,7 @@ Fonts(0x004F,0x000B)
 #incbin "FontItem伪.font.gba"
 
 ALIGN 4
-Fonts(0x0053,0x000B)
+Fonts(0x0053,0x000A)
 #incbin "FontItem匪.font.gba"
 
 ALIGN 4

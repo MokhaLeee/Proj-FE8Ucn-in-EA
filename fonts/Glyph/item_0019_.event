@@ -28,5 +28,5 @@ Fonts(0x0091,0x000B)
 #incbin "FontItem鄙.font.gba"
 
 ALIGN 4
-Fonts(0x0095,0x0009)
+Fonts(0x0095,0x000B)
 #incbin "FontItem错.font.gba"

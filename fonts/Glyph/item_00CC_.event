@@ -20,7 +20,7 @@ Fonts(0x005F,0x000B)
 #incbin "FontItem忌.font.gba"
 
 ALIGN 4
-Fonts(0x0062,0x000B)
+Fonts(0x0062,0x000A)
 #incbin "FontItem拌.font.gba"
 
 ALIGN 4

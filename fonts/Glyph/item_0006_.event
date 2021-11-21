@@ -24,7 +24,7 @@ Fonts(0x005C,0x0009)
 #incbin "FontItem将.font.gba"
 
 ALIGN 4
-Fonts(0x005E,0x0000)
+Fonts(0x005E,0x000B)
 #incbin "FontItem帆.font.gba"
 
 ALIGN 4

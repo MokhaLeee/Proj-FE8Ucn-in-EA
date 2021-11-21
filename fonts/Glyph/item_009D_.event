@@ -44,5 +44,5 @@ Fonts(0x0094,0x000B)
 #incbin "FontItem钝.font.gba"
 
 ALIGN 4
-Fonts(0x0098,0x0009)
+Fonts(0x0098,0x000B)
 #incbin "FontItem额.font.gba"

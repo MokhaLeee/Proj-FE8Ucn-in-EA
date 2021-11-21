@@ -14,4 +14,4 @@ del *.stackdump
 echo Installer Done!
 
 
-
+pause

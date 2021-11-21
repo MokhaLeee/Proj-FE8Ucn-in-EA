@@ -36,5 +36,5 @@ Fonts(0x008B,0x0009)
 #incbin "FontItem讲.font.gba"
 
 ALIGN 4
-Fonts(0x008E,0x0009)
+Fonts(0x008E,0x000A)
 #incbin "FontItem躲.font.gba"
