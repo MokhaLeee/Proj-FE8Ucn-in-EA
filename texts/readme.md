@@ -1,0 +1,1 @@
+```python3 text-process-cn.py TextBuildfile.txt InstallTextData.event TextDefinition.txt```
