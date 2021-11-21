@@ -22,5 +22,5 @@ FE8U clean rom命名为`FE8U.gba`,将`Evenet Assembler`放置在根目录下点�
 
 
 # 如果想额外补字
-首先，比如要基于FE8U clean rom进行烧录。不可以用已经烧录了字库的rom再做二次烧录。
-其次，不建议任何取巧的办法。无论是替换某个字，还是添加新字，都建议更新过图片以及`font.fontall.txt`后，双击`_BatchAll.bat`将整个字库重新烧录一遍。
+首先，不可以用已经烧录了字库的rom再做二次烧录本工程。必须基于FE8U clean rom进行烧录。
+在烧录完成后，若想补单个字的话，简便的方法可以参考[瓜鸽的FEBuilder方案](https://www.bilibili.com/video/BV1Q34y1d7gL)。 如果打算使用EA的方案替换或者添加字，则请在更新过图片以及`font.fontall.txt`后，双击`_BatchAll.bat`将整个字库重新烧录一遍。
